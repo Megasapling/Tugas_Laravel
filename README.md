@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-![inigambar1](Home_laravel_karyawan.png)
+![inigambar1](./config/img/Home_laravel_karyawan.png)
 
 ## About Laravel
 
